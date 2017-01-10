@@ -1,0 +1,17 @@
+C:\Users\Ota\Desktop\pgm\C#\school_shits\Notes\MillionDollarNoteApp\bin\Debug\MillionDollarNoteApp.exe.config
+C:\Users\Ota\Desktop\pgm\C#\school_shits\Notes\MillionDollarNoteApp\bin\Debug\MillionDollarNoteApp.exe
+C:\Users\Ota\Desktop\pgm\C#\school_shits\Notes\MillionDollarNoteApp\bin\Debug\MillionDollarNoteApp.pdb
+C:\Users\Ota\Desktop\pgm\C#\school_shits\Notes\MillionDollarNoteApp\obj\Debug\Notes.csprojResolveAssemblyReference.cache
+C:\Users\Ota\Desktop\pgm\C#\school_shits\Notes\MillionDollarNoteApp\obj\Debug\MillionDollarNoteApp.Add.resources
+C:\Users\Ota\Desktop\pgm\C#\school_shits\Notes\MillionDollarNoteApp\obj\Debug\MillionDollarNoteApp.Notes.resources
+C:\Users\Ota\Desktop\pgm\C#\school_shits\Notes\MillionDollarNoteApp\obj\Debug\MillionDollarNoteApp.Properties.Resources.resources
+C:\Users\Ota\Desktop\pgm\C#\school_shits\Notes\MillionDollarNoteApp\obj\Debug\MillionDollarNoteApp.Show.resources
+C:\Users\Ota\Desktop\pgm\C#\school_shits\Notes\MillionDollarNoteApp\obj\Debug\Notes.csproj.GenerateResource.Cache
+C:\Users\Ota\Desktop\pgm\C#\school_shits\Notes\MillionDollarNoteApp\obj\Debug\MillionDollarNoteApp.exe
+C:\Users\Ota\Desktop\pgm\C#\school_shits\Notes\MillionDollarNoteApp\obj\Debug\MillionDollarNoteApp.pdb
+C:\Users\Ota\Desktop\pgm\C#\school\Notes\MillionDollarNoteApp\bin\Debug\MillionDollarNoteApp.exe.config
+C:\Users\Ota\Desktop\pgm\C#\school\Notes\MillionDollarNoteApp\obj\Debug\MillionDollarNoteApp.exe
+C:\Users\Ota\Desktop\pgm\C#\school\Notes\MillionDollarNoteApp\obj\Debug\MillionDollarNoteApp.pdb
+C:\Users\Ota\Desktop\pgm\C#\school\Notes\Notes\bin\Debug\MillionDollarNoteApp.exe.config
+C:\Users\Ota\Desktop\pgm\C#\school\Notes\Notes\obj\Debug\MillionDollarNoteApp.exe
+C:\Users\Ota\Desktop\pgm\C#\school\Notes\Notes\obj\Debug\MillionDollarNoteApp.pdb
